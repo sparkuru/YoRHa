@@ -1,9 +1,5 @@
 
 archive
-dontgit
-
-storage
-test/binary
 
 # ghidra
 ghidra
