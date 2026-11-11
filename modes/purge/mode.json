@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "id": "purge",
+  "version": "0.1.0-dev.0",
+  "description": "DSH with the maintained dsh-purge snapshot",
+  "dshVersions": ["0.2.1-rc.5"],
+  "verification": "unverified",
+  "patches": [{ "id": "dsh-purge", "version": "1.1.92", "source": "vendors/dsh-purge" }],
+  "packs": { "required": [], "default": [], "optional": [] }
+}

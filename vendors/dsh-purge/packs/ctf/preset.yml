@@ -1,0 +1,4 @@
+id: ctf
+name: CTF 模式
+description: CTF 比赛/靶场模式：题目分诊、Web/Pwn/Crypto/Misc/Forensics 角色与技能。
+order: 20

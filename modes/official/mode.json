@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "id": "official",
+  "version": "0.1.0-dev.0",
+  "description": "DSH without a dsh-purge patch",
+  "dshVersions": ["0.2.1-rc.5"],
+  "verification": "unverified",
+  "patches": [],
+  "packs": { "required": [], "default": [], "optional": [] }
+}

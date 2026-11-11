@@ -1,0 +1,22 @@
+node_modules/
+coverage/
+*.log
+.DS_Store
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.gpr
+*.rep/
+*.id0
+*.id1
+*.id2
+*.i64
+*.nam
+*.til
+
+## diy
+/mcps/ghidra/local/
+/mcps/ida/local/
+/recovery/

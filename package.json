@@ -1,0 +1,10 @@
+{
+  "name": "yorha-workbench",
+  "version": "0.1.0-dev.0",
+  "private": true,
+  "type": "module",
+  "description": "A DSH Agent Workbench",
+  "bin": { "yorha": "./apps/cli/yorha.mjs" },
+  "scripts": { "test": "node --test", "check": "node --check apps/cli/yorha.mjs && node --check packages/instance-manager/index.mjs && node --test" },
+  "engines": { "node": ">=20" }
+}
